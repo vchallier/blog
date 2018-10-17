@@ -2,8 +2,8 @@ title:             La macronie
 email:             victor@dacker.co
 description:       Notes sur la politique française, façon "des chiffres et des lettres"
 author:            Victor Challier & Anatole Flahault
-baseurl:           ""
-url:               ""
+baseurl:           "/blog-jekyll"
+url:               "https://vchallier.github.io"
 
 # Social Profiles
 twitter_username:  victor_challier
